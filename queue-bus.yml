@@ -4,3 +4,4 @@ a: aa3
 url:
   configServerUrl: http://queue-config-server/config/hi
   zipkinServerUrl: http://zipkin-server/zipkin1/hi
+  shopServiceUrl: http://shop-service/shop/trace
