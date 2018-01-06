@@ -1,2 +1,6 @@
 
 a: aa3
+
+url:
+  configServerUrl: http://queue-config-server:7777/config/hi
+  zipkinServerUrl: http://zipkin-server:7778/zipkin1/hi
